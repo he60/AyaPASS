@@ -9,7 +9,10 @@ Webapp en Vanilla JS qui génère une carte d'identité & un passeport localemen
 - Crée une carte d'identité
 - Signe et authentifie les cartes d'identité
 
-## Authors
+## Authors (fork)
+- ayaka (https://www.github.com/he60)
+
+## Authors (original)
 
 - [@ecnivtwelve](https://www.github.com/ecnivtwelve)
 - [@NonozgYtb](https://www.github.com/NonozgYtb)
